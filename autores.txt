@@ -1,0 +1,4 @@
+hola todo bien yo soy un comit para generar conflico 
+yo soy una linea normal
+yo soy otro conflicto
+linea normal
